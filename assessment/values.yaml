@@ -1,4 +1,4 @@
 image:
   repository: mysql
-  pullPolicy: Latest
+  pullPolicy: Always
   tag: "5.6"
